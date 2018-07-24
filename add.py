@@ -19,4 +19,4 @@ for line in fileread:
 		filewrite.write(line)
 d8 = datetime.datetime.strptime(str(datetime.date.today())[:10], '%Y-%m-%d')
 changelog.write(str(d8).partition(' ')[0] + ': Added ' + teamname + "\n")
-fi.write(teamname.replace(' ', '-') + '\n')
+fi.write(teamname.replace(' ', '-') + '.txt\n')
