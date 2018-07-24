@@ -12,11 +12,11 @@ fi = open('files-index.txt', 'a')
 import time
 import datetime
 
-teamname = str(fileread).partition("<open file '")[2].partition('.txt')[0].replace('-', ' ')
-filewrite.write('=== [' + teamname.replace('/', '] ') + ' ===\n')
+teamname = str(fileread).partition("<open file '")[2].partition.replace('-', ' ')
+filewrite.write('=== [' + teamname.replace('/', '] ').partition('.')[0] + ' ===\n')
 for line in fileread:
 	if 'Description:' not in line:
 		filewrite.write(line)
 d8 = datetime.datetime.strptime(str(datetime.date.today())[:10], '%Y-%m-%d')
 changelog.write(str(d8).partition(' ')[0] + ': Added ' + teamname + "\n")
-fi.write(teamname.replace(' ', '-') + '.txt\n')
+fi.write(teamname.replace(' ', '-') + '\n')
