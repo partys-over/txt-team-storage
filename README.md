@@ -1,6 +1,6 @@
 # Pokemon Showdown Team Storage
 ##### Created by dom/partys over
-This resource is to store Pokemon Showdown teams in a real time updating system, on github or another alternative.
+This resource is to store Pokemon Showdown teams in .TXT files while being somewhat versatile.
 ## How to use
 
 - Make folders for each format. OU Teams would be in a gen7ou folder, BW Ubers teams would be in a gen5ubers folder, etc.
