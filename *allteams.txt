@@ -1,0 +1,30 @@
+=== [gen71v1] dom double bird ===
+Archeops @ Choice Band  
+Ability: Defeatist  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Head Smash  
+- Fly  
+- Earthquake  
+- Rock Slide  
+
+Ferrothorn @ Steelium Z  
+Ability: Iron Barbs  
+EVs: 252 HP / 180 Atk / 76 Def  
+Relaxed Nature  
+IVs: 0 Spe  
+- Gyro Ball  
+- Power Whip  
+- Protect  
+- Leech Seed  
+
+Zapdos @ Electrium Z  
+Ability: Static  
+EVs: 252 HP / 156 Def / 100 SpA  
+Modest Nature  
+IVs: 0 Atk  
+- Reflect  
+- Roost  
+- Thunder  
+- Hidden Power [Ice]  
+
